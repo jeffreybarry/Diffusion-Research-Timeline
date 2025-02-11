@@ -2,6 +2,8 @@
 
 🚀 **A chronological timeline of key research papers on diffusion models**, documenting their evolution and linking to their arXiv sources. This repo provides **summaries, breakthroughs, and the impact** of each paper to help students, researchers, and AI enthusiasts understand how diffusion models have developed over time.  
 
+📑 Citation counts are as of February 11, 2025
+
 ---
 
 ## 📌 **Table of Contents**
@@ -31,16 +33,16 @@
 > **Defining the structure of diffusion models & making them competitive with GANs.**  
 
 - **[Denoising Diffusion Probabilistic Models (DDPM)](https://arxiv.org/abs/2006.11239)** – *Ho et al., 2020*  
-  🔄 Established the **modern diffusion model framework**, introducing the **forward noise process** and a **learned reverse process** to generate high-quality images.  
+  🔄 Established the **modern diffusion model framework**, introducing the **forward noise process** and a **learned reverse process** to generate high-quality images.  📑 Cited 6,396 times since 2015
 
 - **[Denoising Diffusion Implicit Models (DDIM)](https://arxiv.org/abs/2010.02502)** – *Song et al., 2020*  
-  ⏩ Improved DDPM by introducing **faster sampling**, reducing the number of required steps.  
+  ⏩ Improved DDPM by introducing **faster sampling**, reducing the number of required steps.  📑 Cited 6,396 times since 2015
 
 - **[Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672)** – *Nichol & Dhariwal, 2021*  
-  ⚙️ Enhanced DDPM with **better noise scheduling** and **classifier-free guidance**, improving image quality.  
+  ⚙️ Enhanced DDPM with **better noise scheduling** and **classifier-free guidance**, improving image quality.  📑 Cited 6,396 times since 2015
 
 - **[Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)** – *Dhariwal & Nichol, 2021*  
-  🎯 Demonstrated that **diffusion models outperform GANs** in high-quality image generation.  
+  🎯 Demonstrated that **diffusion models outperform GANs** in high-quality image generation.  📑 Cited 6,396 times since 2015
 
 ---
 
@@ -48,10 +50,10 @@
 > **Exploring transformer architectures for diffusion models.**  
 
 - **[An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)** – *Dosovitskiy, 2020*  
-  🖼️ Introduced **Vision Transformers (ViTs)**, influencing hybrid architectures that combine transformers with diffusion models.  
+  🖼️ Introduced **Vision Transformers (ViTs)**, influencing hybrid architectures that combine transformers with diffusion models.  📑 Cited 6,396 times since 2015
 
 - **[Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2212.09748)** – *Peebles & Xie, 2023*  
-  🏗️ Proposed **transformer-based diffusion models**, improving scalability and efficiency.  
+  🏗️ Proposed **transformer-based diffusion models**, improving scalability and efficiency.  📑 Cited 6,396 times since 2015
 
 ---
 
@@ -59,10 +61,10 @@
 > **Extending diffusion models beyond static images.**  
 
 - **[Video Diffusion Models](https://arxiv.org/abs/2204.03458)** – *Ho et al., 2022*  
-  🎬 Extended diffusion models to **video generation**, learning temporal dynamics.  
+  🎬 Extended diffusion models to **video generation**, learning temporal dynamics.  📑 Cited 6,396 times since 2015
 
 - **[DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://arxiv.org/abs/2009.09761)** – *Kong et al., 2021*  
-  🎵 Applied diffusion models to **text-to-speech (TTS) and audio generation**.  
+  🎵 Applied diffusion models to **text-to-speech (TTS) and audio generation**.  📑 Cited 6,396 times since 2015
 
 ---
 
@@ -70,10 +72,10 @@
 > **Optimizing diffusion models for high-resolution image generation.**  
 
 - **[High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)** – *Rombach et al., 2022*  
-  🖼️ Introduced **Latent Diffusion Models (LDM)**, moving diffusion to **latent space**, reducing computational costs.  
+  🖼️ Introduced **Latent Diffusion Models (LDM)**, moving diffusion to **latent space**, reducing computational costs.  📑 Cited 6,396 times since 2015
 
 - **[SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/abs/2307.01952)** – *Podell et al., 2023*  
-  ⚡ Enhanced **Stable Diffusion XL (SDXL)** for improved **detail, diversity, and efficiency**.  
+  ⚡ Enhanced **Stable Diffusion XL (SDXL)** for improved **detail, diversity, and efficiency**.  📑 Cited 6,396 times since 2015
 
 ---
 
@@ -81,10 +83,10 @@
 > **Applying diffusion models to multimodal tasks.**  
 
 - **[Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)** – *Ramesh et al., 2021*  
-  🎨 One of the first **text-to-image diffusion models**, paving the way for multimodal AI.  
+  🎨 One of the first **text-to-image diffusion models**, paving the way for multimodal AI.  📑 Cited 6,396 times since 2015
 
 - **[Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)** – *Saharia et al., 2022*  
-  🖊️ Refined text-to-image diffusion with **better conditioning on text prompts**.  
+  🖊️ Refined text-to-image diffusion with **better conditioning on text prompts**.  📑 Cited 6,396 times since 2015
 
 ---
 
@@ -92,11 +94,11 @@
 > **Enhancing speed, stability, and computational efficiency.**  
 
 - **[Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)** – *Karras et al., 2022*  
-  🛠️ Analyzed trade-offs in **sampling efficiency and model design**.  
+  🛠️ Analyzed trade-offs in **sampling efficiency and model design**.  📑 Cited 6,396 times since 2015
  
 
 - **[Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://openreview.net/forum?id=FPnUhsQJ5B)** – *Esser et al., 2024*  
-  🚀 Improved **stability and scalability** of diffusion models.  
+  🚀 Improved **stability and scalability** of diffusion models.  📑 Cited 6,396 times since 2015
 
 ---
 
