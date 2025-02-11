@@ -49,7 +49,7 @@
 - **[An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)** – *Dosovitskiy, 2020*  
   🖼️ Introduced **Vision Transformers (ViTs)**, influencing hybrid architectures that combine transformers with diffusion models.  
 
-- **[Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2303.09522)** – *Peebles & Xie, 2023*  
+- **[Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2212.09748)** – *Peebles & Xie, 2023*  
   🏗️ Proposed **transformer-based diffusion models**, improving scalability and efficiency.  
 
 ---
