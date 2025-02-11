@@ -15,7 +15,7 @@
 
 ---
 
-## Foundational Papers (2015–2019)  
+## Foundational Papers (2015–2019)   <a id='1'></a>
 > **Laying the mathematical groundwork for diffusion models.**  
 
 - **[Deep Unsupervised Learning Using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)** – *Sohl-Dickstein et al., 2015*  
@@ -26,7 +26,7 @@
 
 ---
 
-## Core Diffusion Model Developments (2020–2021)  
+## Core Diffusion Model Developments (2020–2021)   <a id='2'></a>
 > **Defining the structure of diffusion models & making them competitive with GANs.**  
 
 - **[Denoising Diffusion Probabilistic Models (DDPM)](https://arxiv.org/abs/2006.11239)** – *Ho et al., 2020*  
@@ -43,7 +43,7 @@
 
 ---
 
-## Transformers & Diffusion Models (2020–2023)  
+## Transformers & Diffusion Models (2020–2023)   <a id='3'></a>
 > **Exploring transformer architectures for diffusion models.**  
 
 - **[An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)** – *Dosovitskiy, 2020*  
@@ -54,7 +54,7 @@
 
 ---
 
-## Diffusion Beyond Images: Video & Audio (2021–2022)  
+## Diffusion Beyond Images: Video & Audio (2021–2022)   <a id='4'></a>
 > **Extending diffusion models beyond static images.**  
 
 - **[Video Diffusion Models](https://arxiv.org/abs/2204.03458)** – *Ho et al., 2022*  
@@ -65,7 +65,7 @@
 
 ---
 
-## Latent Diffusion & Scaling (2022–2023)  
+## Latent Diffusion & Scaling (2022–2023)   <a id='5'></a>
 > **Optimizing diffusion models for high-resolution image generation.**  
 
 - **[High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)** – *Rombach et al., 2022*  
@@ -76,7 +76,7 @@
 
 ---
 
-## Text-to-Image & Multimodal Diffusion (2021–2022)  
+## Text-to-Image & Multimodal Diffusion (2021–2022)   <a id='6'></a>
 > **Applying diffusion models to multimodal tasks.**  
 
 - **[DALL·E: Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)** – *Ramesh et al., 2021*  
