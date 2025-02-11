@@ -82,7 +82,7 @@
 - **[Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)** – *Ramesh et al., 2021*  
   🎨 One of the first **text-to-image diffusion models**, paving the way for multimodal AI.  
 
-- **[Photorealistic Text-to-Image Diffusion Models (Imagen)](https://arxiv.org/abs/2205.11487)** – *Saharia et al., 2022*  
+- **[Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)** – *Saharia et al., 2022*  
   🖊️ Refined text-to-image diffusion with **better conditioning on text prompts**.  
 
 ---
