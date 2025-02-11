@@ -109,6 +109,6 @@
 ---
 
 ### ⭐ **Contribute**
-Want to add new papers or improve descriptions? Open an **issue** or submit a **pull request**!  
+Want to add new papers or improve descriptions? Open an **issue**!  
 
 📢 **If you found this useful, give it a star ⭐ and share it!**  
