@@ -5,12 +5,12 @@
 ---
 
 ## 📌 **Table of Contents**
-- [Foundational Papers (2015–2019)](#foundational-papers-2015-2019)
-- [Core Diffusion Model Developments (2020–2021)](#core-diffusion-model-developments-2020-2021)
-- [Transformers & Diffusion Models (2020–2023)](#transformers--diffusion-models-2020-2023)
-- [Diffusion Beyond Images: Video & Audio (2021–2022)](#diffusion-beyond-images-video--audio-2021-2022)
-- [Latent Diffusion & Scaling (2022–2023)](#latent-diffusion--scaling-2022-2023)
-- [Text-to-Image & Multimodal Diffusion (2021–2022)](#text-to-image--multimodal-diffusion-2021-2022)
+- [Foundational Papers (2015–2019)](#1)
+- [Core Diffusion Model Developments (2020–2021)](#2)
+- [Transformers & Diffusion Models (2020–2023)](#3)
+- [Diffusion Beyond Images: Video & Audio (2021–2022)](#4)
+- [Latent Diffusion & Scaling (2022–2023)](#5)
+- [Text-to-Image & Multimodal Diffusion (2021–2022)](#6)
 - [Improving Diffusion Efficiency & Sampling (2022–2024)](#7)
 
 ---
