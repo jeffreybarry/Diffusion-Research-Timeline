@@ -25,7 +25,7 @@
 
 - **[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)** – *Song & Ermon, 2019*  
   📉 Introduced **score-based generative models**, which later became crucial in modern diffusion models.
-  📑 Cited 6,396 times since 2015
+  📑 Cited 3,842 times since 2019
 
 ---
 
@@ -33,16 +33,16 @@
 > **Defining the structure of diffusion models & making them competitive with GANs.**  
 
 - **[Denoising Diffusion Probabilistic Models (DDPM)](https://arxiv.org/abs/2006.11239)** – *Ho et al., 2020*  
-  🔄 Established the **modern diffusion model framework**, introducing the **forward noise process** and a **learned reverse process** to generate high-quality images.  📑 Cited 6,396 times since 2015
+  🔄 Established the **modern diffusion model framework**, introducing the **forward noise process** and a **learned reverse process** to generate high-quality images.  📑 Cited 17,651 times since 2020
 
 - **[Denoising Diffusion Implicit Models (DDIM)](https://arxiv.org/abs/2010.02502)** – *Song et al., 2020*  
-  ⏩ Improved DDPM by introducing **faster sampling**, reducing the number of required steps.  📑 Cited 6,396 times since 2015
+  ⏩ Improved DDPM by introducing **faster sampling**, reducing the number of required steps.  📑 Cited 6,629 times since 2020
 
 - **[Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672)** – *Nichol & Dhariwal, 2021*  
-  ⚙️ Enhanced DDPM with **better noise scheduling** and **classifier-free guidance**, improving image quality.  📑 Cited 6,396 times since 2015
+  ⚙️ Enhanced DDPM with **better noise scheduling** and **classifier-free guidance**, improving image quality.  📑 Cited 3,614 times since 2021
 
 - **[Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)** – *Dhariwal & Nichol, 2021*  
-  🎯 Demonstrated that **diffusion models outperform GANs** in high-quality image generation.  📑 Cited 6,396 times since 2015
+  🎯 Demonstrated that **diffusion models outperform GANs** in high-quality image generation.  📑 Cited 7,477 times since 2021
 
 ---
 
