@@ -83,10 +83,10 @@
 > **Applying diffusion models to multimodal tasks.**  
 
 - **[Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)** – *Ramesh et al., 2021*  
-  🎨 One of the first **text-to-image diffusion models**, paving the way for multimodal AI.  📑 Cited 6,396 times since 2021
+  🎨 One of the first **text-to-image diffusion models**, paving the way for multimodal AI.  📑 Cited 5,542 times since 2021
 
 - **[Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)** – *Saharia et al., 2022*  
-  🖊️ Refined text-to-image diffusion with **better conditioning on text prompts**.  📑 Cited 6,396 times since 2022
+  🖊️ Refined text-to-image diffusion with **better conditioning on text prompts**.  📑 Cited 5,645 times since 2022
 
 ---
 
@@ -94,11 +94,11 @@
 > **Enhancing speed, stability, and computational efficiency.**  
 
 - **[Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)** – *Karras et al., 2022*  
-  🛠️ Analyzed trade-offs in **sampling efficiency and model design**.  📑 Cited 6,396 times since 2015
+  🛠️ Analyzed trade-offs in **sampling efficiency and model design**.  📑 Cited 1,609 times since 2022
  
 
 - **[Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://openreview.net/forum?id=FPnUhsQJ5B)** – *Esser et al., 2024*  
-  🚀 Improved **stability and scalability** of diffusion models.  📑 Cited 6,396 times since 2015
+  🚀 Improved **stability and scalability** of diffusion models.  📑 Cited 581 times since 2024
 
 ---
 
