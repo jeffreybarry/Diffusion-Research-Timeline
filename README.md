@@ -19,7 +19,7 @@
 > **Laying the mathematical groundwork for diffusion models.**  
 
 - **[Deep Unsupervised Learning Using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)** – *Sohl-Dickstein et al., 2015*  
-  🏗️ First proposed diffusion models as a **thermodynamic process**, introducing the forward (noise addition) and reverse (denoising) diffusion process.  
+  🏗️ First proposed diffusion models as a **thermodynamic process**, introducing the forward (noise addition) and reverse (denoising) diffusion process. 📑 Cited 6,396 times since 2015 
 
 - **[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)** – *Song & Ermon, 2019*  
   📉 Introduced **score-based generative models**, which later became crucial in modern diffusion models.
