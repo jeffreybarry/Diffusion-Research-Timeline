@@ -92,11 +92,9 @@
 
 - **[Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)** – *Karras et al., 2022*  
   🛠️ Analyzed trade-offs in **sampling efficiency and model design**.  
+ 
 
-- **[EDM: Elucidated Diffusion Models and Sampling Strategies](https://arxiv.org/abs/2303.13456)** – *Balaji et al., 2023*  
-  ⚙️ Proposed new **sampling and training techniques** for improved efficiency.  
-
-- **[Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2401.12345)** – *Esser et al., 2024*  
+- **[Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://openreview.net/forum?id=FPnUhsQJ5B)** – *Esser et al., 2024*  
   🚀 Improved **stability and scalability** of diffusion models.  
 
 ---
