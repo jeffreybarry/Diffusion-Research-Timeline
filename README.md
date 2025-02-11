@@ -11,7 +11,7 @@
 - [Diffusion Beyond Images: Video & Audio (2021–2022)](#diffusion-beyond-images-video--audio-2021-2022)
 - [Latent Diffusion & Scaling (2022–2023)](#latent-diffusion--scaling-2022-2023)
 - [Text-to-Image & Multimodal Diffusion (2021–2022)](#text-to-image--multimodal-diffusion-2021-2022)
-- [Improving Diffusion Efficiency & Sampling (2022–2024)](#improving-diffusion-efficiency--sampling-2022-2024)
+- [Improving Diffusion Efficiency & Sampling (2022–2024)](#7)
 
 ---
 
@@ -87,7 +87,7 @@
 
 ---
 
-## Improving Diffusion Efficiency & Sampling (2022–2024)  
+## Improving Diffusion Efficiency & Sampling (2022–2024)  <a id='7'></a>
 > **Enhancing speed, stability, and computational efficiency.**  
 
 - **[Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)** – *Karras et al., 2022*  
