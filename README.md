@@ -21,7 +21,7 @@
 > **Laying the mathematical groundwork for diffusion models.**  
 
 - **[Deep Unsupervised Learning Using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)** – *Sohl-Dickstein et al., 2015*  
-  🏗️ First proposed diffusion models as a **thermodynamic process**, introducing the forward (noise addition) and reverse (denoising) diffusion process. 📑 Cited 6,396 times since 2015 
+  🏗️ First proposed diffusion models as a **thermodynamic process**, introducing the forward (noise addition) and reverse (denoising) diffusion process. 📑 Cited 7,007 times since 2015 
 
 - **[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)** – *Song & Ermon, 2019*  
   📉 Introduced **score-based generative models**, which later became crucial in modern diffusion models.
@@ -50,10 +50,10 @@
 > **Exploring transformer architectures for diffusion models.**  
 
 - **[An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)** – *Dosovitskiy, 2020*  
-  🖼️ Introduced **Vision Transformers (ViTs)**, influencing hybrid architectures that combine transformers with diffusion models.  📑 Cited 6,396 times since 2015
+  🖼️ Introduced **Vision Transformers (ViTs)**, influencing hybrid architectures that combine transformers with diffusion models.  📑 Cited 54,671 times since 2020
 
 - **[Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2212.09748)** – *Peebles & Xie, 2023*  
-  🏗️ Proposed **transformer-based diffusion models**, improving scalability and efficiency.  📑 Cited 6,396 times since 2015
+  🏗️ Proposed **transformer-based diffusion models**, improving scalability and efficiency.  📑 Cited 1,599 times since 2023
 
 ---
 
@@ -61,10 +61,10 @@
 > **Extending diffusion models beyond static images.**  
 
 - **[Video Diffusion Models](https://arxiv.org/abs/2204.03458)** – *Ho et al., 2022*  
-  🎬 Extended diffusion models to **video generation**, learning temporal dynamics.  📑 Cited 6,396 times since 2015
+  🎬 Extended diffusion models to **video generation**, learning temporal dynamics.  📑 Cited 1,451 times since 2022
 
 - **[DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://arxiv.org/abs/2009.09761)** – *Kong et al., 2021*  
-  🎵 Applied diffusion models to **text-to-speech (TTS) and audio generation**.  📑 Cited 6,396 times since 2015
+  🎵 Applied diffusion models to **text-to-speech (TTS) and audio generation**.  📑 Cited 1,471 times since 2021
 
 ---
 
@@ -72,10 +72,10 @@
 > **Optimizing diffusion models for high-resolution image generation.**  
 
 - **[High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)** – *Rombach et al., 2022*  
-  🖼️ Introduced **Latent Diffusion Models (LDM)**, moving diffusion to **latent space**, reducing computational costs.  📑 Cited 6,396 times since 2015
+  🖼️ Introduced **Latent Diffusion Models (LDM)**, moving diffusion to **latent space**, reducing computational costs.  📑 Cited 15,267 times since 2022
 
 - **[SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/abs/2307.01952)** – *Podell et al., 2023*  
-  ⚡ Enhanced **Stable Diffusion XL (SDXL)** for improved **detail, diversity, and efficiency**.  📑 Cited 6,396 times since 2015
+  ⚡ Enhanced **Stable Diffusion XL (SDXL)** for improved **detail, diversity, and efficiency**.  📑 Cited 1,596 times since 2023
 
 ---
 
@@ -83,10 +83,10 @@
 > **Applying diffusion models to multimodal tasks.**  
 
 - **[Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)** – *Ramesh et al., 2021*  
-  🎨 One of the first **text-to-image diffusion models**, paving the way for multimodal AI.  📑 Cited 6,396 times since 2015
+  🎨 One of the first **text-to-image diffusion models**, paving the way for multimodal AI.  📑 Cited 6,396 times since 2021
 
 - **[Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)** – *Saharia et al., 2022*  
-  🖊️ Refined text-to-image diffusion with **better conditioning on text prompts**.  📑 Cited 6,396 times since 2015
+  🖊️ Refined text-to-image diffusion with **better conditioning on text prompts**.  📑 Cited 6,396 times since 2022
 
 ---
 
