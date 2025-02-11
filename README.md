@@ -23,6 +23,7 @@
 
 - **[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)** – *Song & Ermon, 2019*  
   📉 Introduced **score-based generative models**, which later became crucial in modern diffusion models.
+  📑 Cited 6,396 times since 2015
 
 ---
 
