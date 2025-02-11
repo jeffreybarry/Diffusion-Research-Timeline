@@ -79,7 +79,7 @@
 ## Text-to-Image & Multimodal Diffusion (2021–2022)   <a id='6'></a>
 > **Applying diffusion models to multimodal tasks.**  
 
-- **[DALL·E: Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)** – *Ramesh et al., 2021*  
+- **[Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)** – *Ramesh et al., 2021*  
   🎨 One of the first **text-to-image diffusion models**, paving the way for multimodal AI.  
 
 - **[Photorealistic Text-to-Image Diffusion Models (Imagen)](https://arxiv.org/abs/2205.11487)** – *Saharia et al., 2022*  
